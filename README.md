@@ -5,7 +5,7 @@ Jenkins是当前最常用的CI服务器，FIT2CLOUD Execute-Script-Plugin for Je
 一、安装说明
 -------------------------
 
-插件下载地址：http://repository-proxy.fit2cloud.com:8080/content/repositories/releases/org/jenkins-ci/plugins/f2c-codedeploy/0.1/f2c-codedeploy-0.1.hpi
+插件下载地址：http://repository-proxy.fit2cloud.com:8080/service/local/repositories/releases/content/org/jenkins-ci/plugins/f2c-execute-script/0.1/f2c-execute-script-0.1.hpi
 在Jenkins中安装插件, 请到 Manage Jenkins | Advanced | Upload，上传插件(.hpi文件)
 安装完毕后请重新启动Jenkins
 
